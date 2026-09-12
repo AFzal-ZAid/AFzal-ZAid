@@ -1,9 +1,15 @@
 # 💫 About Me:
 
 ## Hi, I'm Md AFzal 👋<br>
-<h5><br>Full Stack Software Engineer specializing in Java, Spring Boot, and the MERN stack. I build end-to-end applications — from REST APIs and database design to responsive, production-ready UIs.<br><br>🔭 Currently building AI-integrated platforms using Spring Boot, Spring AI, Gemini, and OpenAI APIs for real-world use cases such as AI content generation, chat assistants, image generation, and multi-feature AI platforms.<br><br>🛠️ Tech I work with: Java · Core Java · JavaScript · React.js · Spring Boot · Spring MVC · Spring Security · Hibernate · JPA · Node.js · Express.js · MongoDB · MySQL · REST APIs · JWT · Socket.io · HTML5 · CSS3 · Bootstrap · Vite<br><br>☁️ DevOps & Tools: Git · GitHub · GitHub Actions · CI/CD · AWS · Linux · Maven · IntelliJ IDEA · VS Code<br><br>💡 I enjoy solving real-world problems, learning new technologies, and building clean, maintainable, and scalable applications.<br>
-</h5>
-  <br>📫 Reach me: [md.afzalvv@gmail.com](mailto:md.afzalvv@gmail.com) | [LinkedIn](https://www.linkedin.com/in/afzalzaid/)
+<h4> Full Stack Software Engineer | Softawre development Engineer | Java Developer | MERN | Leetcode </h4>
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+       width="350px"
+       height="350px"
+       alt="Coding Animation">
+</p>
+
 
 ## 🌐 Socials:
 
