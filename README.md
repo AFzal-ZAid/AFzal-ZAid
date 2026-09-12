@@ -11,23 +11,9 @@
 
 </div>
 
-## The idea behind the work
-
-> Building useful things and learning in public.
-
-- 📍 Based in **New Delhi **
-- 👥 **0** followers · **2** following
-
-*Small, useful work over vague claims.*
 
 ## Case studies
 
-<table>
-<tr><td width="32%"><b><a href="https://github.com/AFzal-ZAid/AFzal-ZAid.">AFzal-ZAid.</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/AFzal-ZAid/GlobalCo.">GlobalCo.</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/AFzal-ZAid/LensCorner">LensCorner</a></b></td><td>Sunglasses Store<br/><sub>CSS · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/AFzal-ZAid/CodSoft.githun.io">CodSoft.githun.io</a></b></td><td>Internship<br/><sub>open source · 0 stars</sub></td></tr>
-</table>
 
 ## Details worth noticing
 
@@ -38,12 +24,14 @@
 <p><b>AFzal Zaid</b> is shipping 77 public projects with 0 stars of proof.</p>
 
 ## Creative toolkit
+![Java](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![REST APIs](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![BootStrap](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
